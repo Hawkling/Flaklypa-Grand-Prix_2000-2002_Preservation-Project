@@ -63,8 +63,8 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
 6. Åpne `dgVoodooCpl.exe`:
     * **General:** Scaling mode: *Unspecified* (16:9) eller *Keep aspect ratio* (4:3).
     * **[DirectX](https://imgur.com/BzplWw1):** Velg ønsket oppløsning og slå av "dgVoodoo Watermark".
-    * Høyreklikk, velg "Show all sections of the configuration"
-    * **[GeneralExt](https://imgur.com/mnglcos):** ", aktiver *Borderless*, *Fullscreen size* og *Fake*.
+    * [Høyreklikk, velg "Show all sections of the configuration"](https://imgur.com/mnglcos)
+    * **[GeneralExt](https://imgur.com/a/74R3CFy):** ", aktiver *Borderless*, *Fullscreen size* og *Fake*.
 
 Anbefalt oppsett er nå fullført.
 
@@ -114,7 +114,7 @@ The original games have never been released digitally and are no longer commerci
 6. Open `dgVoodooCpl.exe`:
     * **General:** Scaling mode: *Unspecified* (for 16:9) or *Keep aspect ratio* (for 4:3).
     * **[DirectX](https://imgur.com/BzplWw1):** Select your desired resolution and turn off "dgVoodoo Watermark."
-    *  Right-click and select "Show all sections of the configuration."
+    *  [Right-click and select "Show all sections of the configuration."](https://imgur.com/mnglcos)
     * **[GeneralExt](https://imgur.com/mnglcos):**" Enable *Borderless*, *Fullscreen size*, and *Fake*.
 
 Recommended setup is now complete.
