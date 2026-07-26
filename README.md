@@ -115,7 +115,7 @@ The original games have never been released digitally and are no longer commerci
     * **General:** Scaling mode: *Unspecified* (for 16:9) or *Keep aspect ratio* (for 4:3).
     * **[DirectX](https://imgur.com/BzplWw1):** Select your desired resolution and turn off "dgVoodoo Watermark."
     *  [Right-click and select "Show all sections of the configuration."](https://imgur.com/mnglcos)
-    * **[GeneralExt](https://imgur.com/mnglcos):**" Enable *Borderless*, *Fullscreen size*, and *Fake*.
+    * **[GeneralExt](https://imgur.com/a/74R3CFy):**" Enable *Borderless*, *Fullscreen size*, and *Fake*.
 
 Recommended setup is now complete.
 
