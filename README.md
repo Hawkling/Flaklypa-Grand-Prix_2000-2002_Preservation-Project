@@ -34,6 +34,8 @@ Hvis offisielle nyutgivelser eller remastere blir tilgjengelige på GOG eller St
 
 Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant annet gjennom Archive.org, spiller alle en viktig rolle i bevaringen av Norges digitale spillhistorie.
 
+---
+
 ### Tilgang til spillet
 
 De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersielt tilgjengelige. For å bevare vår kulturarv finnes det fellesskapsarkiverte kopier på Archive.org.
