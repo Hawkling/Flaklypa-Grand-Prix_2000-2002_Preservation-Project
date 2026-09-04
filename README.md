@@ -119,7 +119,7 @@ The original games have never been released digitally and are no longer commerci
     *  [Right-click and select "Show all sections of the configuration."](https://imgur.com/mnglcos)
     * **[GeneralExt](https://imgur.com/a/74R3CFy):**" Enable *Borderless*, *Fullscreen size*, and *Fake*.
 
-Recommended setup is now complete. **Have fun**
+Recommended setup is now complete. **Have fun :)**
 
 ---
 
