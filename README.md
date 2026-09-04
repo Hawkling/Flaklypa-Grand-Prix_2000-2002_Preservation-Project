@@ -68,7 +68,7 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
     * [Høyreklikk, velg "Show all sections of the configuration"](https://imgur.com/mnglcos)
     * **[GeneralExt](https://imgur.com/a/74R3CFy):** ", aktiver *Borderless*, *Fullscreen size* og *Fake*.
 
-Anbefalt oppsett er nå fullført.
+Anbefalt oppsett er nå fullført. **Kos deg :)**
 
 
 ### Mer info på bunn av siden.
@@ -119,7 +119,7 @@ The original games have never been released digitally and are no longer commerci
     *  [Right-click and select "Show all sections of the configuration."](https://imgur.com/mnglcos)
     * **[GeneralExt](https://imgur.com/a/74R3CFy):**" Enable *Borderless*, *Fullscreen size*, and *Fake*.
 
-Recommended setup is now complete.
+Recommended setup is now complete. **Have fun**
 
 ---
 
